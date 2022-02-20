@@ -22,7 +22,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mirouhml&theme=algolia" alt="mirouhml" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mirouhml" alt="mirouhml" /></p>
 
 <br>
 <br>
