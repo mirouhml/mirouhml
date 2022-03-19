@@ -7,7 +7,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=mirouhml&label=Profile%20views&color=0e75b6&style=plastic" alt="mirouhml" /> 
+	<img src="https://visitor-badge.laobi.icu/badge?page_id=mirouhml" alt="mirouhml" /> 
 	<a href = "https://commits.top/algeria.html" target="_blank">
 		<img src="https://ensy727k6n2pc6y.m.pipedream.net/&style=plastic" alt="mirouhml" target="_blank"/> 
 	</a>
