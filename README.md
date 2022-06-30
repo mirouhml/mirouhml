@@ -66,6 +66,10 @@
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   </a>
+  &emsp;
+   <a href="https://www.ruby-lang.org/en/" target="_blank">
+    <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white">
+  </a>
 </p>
 
 ### 👉 Frontend Development
@@ -86,6 +90,18 @@
   <a href="https://www.tutorialspoint.com/redux/index.htm" target="_blank">
     <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
   </a> 
+</p>
+
+### 👉 Backend Development
+<p align="center"> 
+  &emsp; 
+  <a href="https://rubyonrails.org/" target="_blank"> 
+   <img alt="RAILS" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
+  </a>   
+  &emsp; 
+  <a href="https://www.postgresql.org/" target="_blank"> 
+   <img alt="POSTGRES" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  </a>  
 </p>
 
  ### 👉 IDEs
