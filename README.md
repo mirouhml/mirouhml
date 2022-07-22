@@ -16,7 +16,7 @@
 
 ## :sassy_man:  About me
 - :technologist: I love using Software as a solution for every `Problem`
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](./resume.pdf).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](./Resume.pdf).
 - :nerd_face: Always `learning new things`
 
 <br>
