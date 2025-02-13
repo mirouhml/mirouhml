@@ -6,17 +6,9 @@
 
 <br>
 
-<p align="center"> 
-	<img src="https://visitor-badge.laobi.icu/badge?page_id=mirouhml" alt="mirouhml" /> 
-	<a href = "https://commits.top/algeria.html" target="_blank">
-		<img src="https://ensy727k6n2pc6y.m.pipedream.net/&style=plastic" alt="mirouhml" target="_blank"/> 
-	</a>
-</p>
-
 
 ## :sassy_man:  About me
 - :technologist: I love using Software as a solution for every `Problem`
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](./Resume.pdf).
 - :nerd_face: Always `learning new things`
 
 <br>
