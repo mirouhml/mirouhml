@@ -3,18 +3,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%230AF7A6&center=true&vCenter=true&lines=Software+Engineer;Competitive+programmer;Fast+learner"></a>
 </p>
 
-
-<br>
-
-
 ## :sassy_man:  About me
 - :technologist: I love using Software as a solution for every `Problem`
 - :nerd_face: Always `learning new things`
-
-<br>
-
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mirouhml&theme=algolia" alt="mirouhml" /></p>
 
 <br>
 <br>
